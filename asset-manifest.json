@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Abdalrhman-m/No-coco-GN/static/css/main.a5087af4.css",
+    "main.js": "/Abdalrhman-m/No-coco-GN/static/js/main.057da6df.js",
+    "index.html": "/Abdalrhman-m/No-coco-GN/index.html",
+    "main.a5087af4.css.map": "/Abdalrhman-m/No-coco-GN/static/css/main.a5087af4.css.map",
+    "main.057da6df.js.map": "/Abdalrhman-m/No-coco-GN/static/js/main.057da6df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5087af4.css",
+    "static/js/main.057da6df.js"
+  ]
+}
